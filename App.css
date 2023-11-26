@@ -1,0 +1,10 @@
+*{
+  margin: 0px;
+}
+.App{
+  position: relative;
+  background-color: #111;
+}
+.Banner{
+  padding: 1px;
+}
